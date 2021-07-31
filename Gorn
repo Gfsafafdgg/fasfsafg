@@ -1,5 +1,5 @@
 if game.PlaceId == 5865858426 then
-   loadstring(game:HttpGet('https://raw.githubusercontent.com/Gfsafafdgg/fasfsafg/main/Gorn'))()
+   loadstring(game:HttpGet('https://raw.githubusercontent.com/Gfsafafdgg/bbbbb4141/main/Gornn'))()
    else
    game.Players.LocalPlayer:Kick("game not suppot")
 end
